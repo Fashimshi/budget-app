@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/budget-app/static/js/main.3c68abb6.chunk.js",
+    "main.js.map": "/budget-app/static/js/main.3c68abb6.chunk.js.map",
+    "runtime-main.js": "/budget-app/static/js/runtime-main.e9f70614.js",
+    "runtime-main.js.map": "/budget-app/static/js/runtime-main.e9f70614.js.map",
+    "static/js/2.2047ad6b.chunk.js": "/budget-app/static/js/2.2047ad6b.chunk.js",
+    "static/js/2.2047ad6b.chunk.js.map": "/budget-app/static/js/2.2047ad6b.chunk.js.map",
+    "index.html": "/budget-app/index.html",
+    "precache-manifest.4c5ecfccb815281d9bf93f5187e11b91.js": "/budget-app/precache-manifest.4c5ecfccb815281d9bf93f5187e11b91.js",
+    "service-worker.js": "/budget-app/service-worker.js",
+    "static/js/2.2047ad6b.chunk.js.LICENSE.txt": "/budget-app/static/js/2.2047ad6b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e9f70614.js",
+    "static/js/2.2047ad6b.chunk.js",
+    "static/js/main.3c68abb6.chunk.js"
+  ]
+}
